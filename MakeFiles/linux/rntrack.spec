@@ -1,11 +1,12 @@
 Name: rntrack
 Version: 2.2.0
-Release: 1%{?dist}
+Release: 2%{?dist}
 Group: Applications/FTN
 Summary: RNtrack - a FTN netmail tracker
 Summary(ru): RNtrack - трекер нетмейла в сетях типа "Фидонет"
 URL: https://sourceforge.net/projects/ftrack-as/
 License: GPLv2
+BuildRequires: make gcc-c++
 BuildRequires: perl(ExtUtils::Embed)
 Requires: perl >= 5.8.8
 Source: %{name}.tar.gz
