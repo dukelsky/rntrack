@@ -4,7 +4,7 @@ Release: 2%{?dist}
 Group: Applications/FTN
 Summary: RNtrack - a FTN netmail tracker
 Summary(ru): RNtrack - трекер нетмейла в сетях типа "Фидонет"
-URL: https://sourceforge.net/projects/ftrack-as/
+URL: https://github.com/dukelsky/rntrack
 License: GPLv2
 BuildRequires: make gcc-c++
 BuildRequires: perl(ExtUtils::Embed)
