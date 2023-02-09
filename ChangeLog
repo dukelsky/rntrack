@@ -4,7 +4,17 @@
 ! - Bug fixed
 # - Added feature or changes
 
-2.2.0 2021-01-08 (tag "v2.2.0")
+2.3.0 2023-02-09 (tag "v2.3.0")
+-------------------------------
+# add Msg.txt to .gitignore
+! do not copy the NUL byte to password.
+# add a possibility to change build target in "build_rpm".
+# update "build_rpm" for work outside of "rntrack" directory.
+# use -Og instead of -O2 when DEBUG=1.
+# replace sourceforge with github in rntrack.spec.
+# add make, gcc-c++ to BuildRequires.
+
+2.2.0 2022-01-08 (tag "v2.2.0")
 -------------------------------
 ! restrict the MSGID length by eight hex digits.
 
