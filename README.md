@@ -1,6 +1,11 @@
 RNTrack: A Fidonet Message tracker
 ==================================
 
+Disclaimer
+----------
+
+I don't support RNTrack any more. This repository is here just to preserve history.
+
 What is this program for
 ------------------------
 
